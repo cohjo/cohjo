@@ -2,8 +2,8 @@
 
 #### I'm a Developer and Math Enthusiast
 
-- 🌱 I’m currently learning Vue.js, Python for data science, and Rust
-- 📫 How to reach me: chjohnston96@gmail.com
+- 🌱 I’m currently learning Vue.js and Rust
+- 📫 How to reach me: conor@devconor.com
 
 #### Languages and Tools
 
