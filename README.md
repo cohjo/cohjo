@@ -2,7 +2,7 @@
 
 I'm a software developer with interests in finance, blockchain, and data science. I have a BS in Mathematics from Indiana University and love to learn new tech (especially the weekly frontend framework/tool). I am currently learning Rust.
 
-[![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjohnston96&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cohjo&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Languages and Tools
