@@ -4,6 +4,9 @@ I'm a software developer with interests in finance, blockchain, and data science
 
 [![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cohjo&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Conor's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cohjo&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 #### Languages and Tools
 
