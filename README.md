@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey 👋
 
-I'm a software developer with interests in finance, blockchain, and data science. I have a BS in Mathematics from Indiana University and love to learn new tech (especially the weekly frontend framework/tool). I am currently learning Rust.
+i'm a web dev moonlighting as a data scientist in my free time
 
 ![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cohjo&theme=gruvbox&count_private=true)
 
