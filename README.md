@@ -1,6 +1,9 @@
-### Hey 👋
+### hey 👋
 
-i'm a web dev moonlighting as a data scientist in my free time
+#### unfortunately `free_time < time_to_complete_a_project * things_i_want_to_try`, so check out my unfinished projects 🥲
+
+##### i'm currently interested in new web technologies and machine learning (specifically nlp) 
+##### i ❤️ math
 
 ![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cohjo&theme=gruvbox&count_private=true)
 
