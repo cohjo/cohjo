@@ -1,11 +1,9 @@
-### hey 👋
+### hey 👋 I'm Conor!
 
-#### unfortunately `free_time < time_to_complete_a_project * things_i_want_to_try`, so check out my unfinished projects 🥲
+<div style="display: flex;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=cohjo&show_icons=true&hide=&count_private=true&title_color=41b883&text_color=e4e4e7&icon_color=41b883&bg_color=34495e&hide_border=true" alt="Conor Johnston's GitHub stats" height="275" />
+</div>
 
-##### i'm currently interested in new web technologies and machine learning (specifically nlp) 
-##### i ❤️ math
-
-![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cohjo&theme=gruvbox&count_private=true)
 
 #### Languages and Tools
 
@@ -26,11 +24,3 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <br />
-
-#### Links
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[LinkedIn]: https://linkedin.com/in/conorhjohnston
-[Website]: https://cohjo.com
